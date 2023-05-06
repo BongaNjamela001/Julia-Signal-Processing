@@ -1,2 +1,2 @@
 # Julia-Signal-Processing
-Compilation of signal processing projects using Julia. Analysis is performed in the time domain and frequency domain using mathematical functions such as fft() which performs the fast Fourier transform.
+Compilation of Jupyter notebooks on signal processing using Julia. Analysis is performed in the time domain and frequency domain using mathematical functions such as fft() which performs the fast Fourier transform. Results from simulations of signals, convolution, audio signal sampling, amplitude modulation and discrete convolution are discussed and represented graphically using Plotly. 
